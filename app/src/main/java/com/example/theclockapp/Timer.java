@@ -1,5 +1,3 @@
-//Omkar Kulkarni
-//119225596
 
 package com.example.theclockapp;
 
