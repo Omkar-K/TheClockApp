@@ -1,5 +1,4 @@
-//Omkar Kulkarni
-//119225596
+
 package com.example.theclockapp;
 
 import androidx.appcompat.app.AppCompatActivity;
